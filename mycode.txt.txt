@@ -1,4 +1,8 @@
 import my module
 print("my first line")
 print("my second line")
+<<<<<<< HEAD
 print("my  head latest third line")
+=======
+print("my third line")
+>>>>>>> parent of 52ed62b (edit at line 4 from master)
