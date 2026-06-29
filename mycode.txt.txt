@@ -3,4 +3,8 @@ print("my first line")
 print("my second line")
 print("my  head latest third line")
 print(" my fourth line")
+<<<<<<< HEAD
 print("my most most fifth line in gifthub")
+=======
+print("my latest fifth line from github")
+>>>>>>> d81a7bbd54b92eae7a8144c8991df0aa94699a3f
